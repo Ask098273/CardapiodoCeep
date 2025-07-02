@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "padaria-do-seu-ze",
+    "slug": "snack-be9473d1-3d16-4497-981e-ce6135e22ca9",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Batman é o atendente e  Robin é seu ajudante.\n Temos Bat-Leite e Bat-Bomba."
+  }
+}
